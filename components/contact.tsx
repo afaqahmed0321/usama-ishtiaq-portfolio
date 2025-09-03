@@ -20,7 +20,7 @@ const contactInfo = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "linkedin.com/in/usama-ishtiaq",
+    value: "linkedin.com/in/usama-ishtiaq-devai",
     href: "https://www.linkedin.com/in/usama-ishtiaq-devai",
   },
   {
@@ -228,7 +228,7 @@ export function Contact() {
                   <Mail className="h-4 w-4 text-primary" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/usama-ishtiaq"
+                  href="https://linkedin.com/in/usama-ishtiaq-devai"
                   className="p-2 bg-primary/10 hover:bg-primary/20 rounded-lg transition-all duration-300 hover:scale-110"
                 >
                   <Linkedin className="h-4 w-4 text-primary" />
