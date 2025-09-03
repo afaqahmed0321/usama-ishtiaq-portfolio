@@ -14,14 +14,14 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Phone",
-    value: "+44 7424 898521",
-    href: "tel:+447424898521",
+    value: "+44 7836 770529",
+    href: "tel:+447836770529",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
     value: "linkedin.com/in/usama-ishtiaq",
-    href: "https://linkedin.com/in/usama-ishtiaq",
+    href: "https://www.linkedin.com/in/usama-ishtiaq-devai",
   },
   {
     icon: MapPin,
@@ -234,7 +234,7 @@ export function Contact() {
                   <Linkedin className="h-4 w-4 text-primary" />
                 </a>
                 <a
-                  href="tel:+447424898521"
+                  href="tel:+447836770529"
                   className="p-2 bg-primary/10 hover:bg-primary/20 rounded-lg transition-all duration-300 hover:scale-110"
                 >
                   <Phone className="h-4 w-4 text-primary" />
@@ -247,7 +247,7 @@ export function Contact() {
           <div className="pt-6 border-t border-border/30">
             <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
               <p className="text-muted-foreground text-sm">© 2025 Usama Ishtiaq. All rights reserved.</p>
-              <p className="text-muted-foreground text-sm">Built with Next.js & Tailwind CSS</p>
+              <p className="text-muted-foreground text-sm"></p>
             </div>
           </div>
         </div>

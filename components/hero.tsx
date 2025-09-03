@@ -45,10 +45,10 @@ export function Hero() {
             <a href="mailto:meetusama.dev@gmail.com" className="text-muted hover:text-accent transition-colors">
               <Mail className="h-6 w-6" />
             </a>
-            <a href="https://linkedin.com/in/usama-ishtiaq" className="text-muted hover:text-accent transition-colors">
+            <a href="https://www.linkedin.com/in/usama-ishtiaq-devai" className="text-muted hover:text-accent transition-colors">
               <Linkedin className="h-6 w-6" />
             </a>
-            <a href="https://github.com/usama-ishtiaq" className="text-muted hover:text-accent transition-colors">
+            <a href="https://github.com/uh-sama" className="text-muted hover:text-accent transition-colors">
               <Github className="h-6 w-6" />
             </a>
           </div>
